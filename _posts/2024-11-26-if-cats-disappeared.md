@@ -3,7 +3,7 @@ title:  "If Cats Disappeared from the World"
 subtitle: "My Most-Favorite Movie!"
 date:   2024-11-26 03:00:00
 categories: [Reviews, Movies]
-tags: [jdrama, movies, reviews]
+tags: [jdrama, movies, reviews, ⭐️]
 image: /assets/images/2024-11-26-if-cats-disappeared/2024-11-26-if-cats-disappeared-2.jpg
 ---
 

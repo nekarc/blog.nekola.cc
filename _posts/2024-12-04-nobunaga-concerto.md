@@ -4,7 +4,7 @@ subtitle: "A Reluctant Hero’s Evolution Through a Time-Travel Tale"
 date:   2024-12-04 00:00:00
 categories: [Reviews, Series]
 tags: [jdrama, movies, series, reviews]
-image: /assets/images/2024-12-04-nobunaga-concerto/2024-12-04-nobunaga-concerto-1.jpg
+image: /assets/images/2024-12-04-nobunaga-concerto/2024-12-04-nobunaga-concerto-2.jpg
 ---
 
 
